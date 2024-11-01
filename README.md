@@ -48,7 +48,7 @@ Consulte o arquivo [`CONTRIBUTING.md`](CONTRIBUTING.md) para orientações detal
 3. **Fazer Ajustes**: Se necessário, faça os ajustes indicados e atualize a PR com os commits de correção.
 4. **Aprovação da PR**: Após atender aos requisitos, a PR será aprovada e integrada ao repositório.
 
-Para mais detalhes, consulte as [Regras para o Workflow](#fluxo-de-trabalho-para-pull-requests-prs) e o arquivo `CONTRIBUTING.md`.
+Para mais detalhes, consulte as [Regras para o Workflow](WORKFLOW.md) e o arquivo `CONTRIBUTING.md`.
 
 ## Boas Práticas de Programação Orientada a Objetos (POO)
 
