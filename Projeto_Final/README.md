@@ -1,4 +1,4 @@
-# Projeto Final Avaliativo de POO – Sistema Integrado
+# Projeto Final de POO – Sistema Integrado
 
 ## Objetivo
 
